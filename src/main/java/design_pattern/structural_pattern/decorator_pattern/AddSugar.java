@@ -8,7 +8,7 @@ public class AddSugar extends CoffeeDecorator{
 
     @Override
     public String getDescription() {
-        return coffee.getDescription() + " sugar";
+        return coffee.getDescription() + ", sugar";
     }
 
     @Override

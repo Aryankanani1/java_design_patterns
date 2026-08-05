@@ -8,7 +8,7 @@ public class AddMilk extends CoffeeDecorator{
 
     @Override
     public String getDescription() {
-        return coffee.getDescription() + " milk";
+        return coffee.getDescription() + ", milk";
     }
 
     @Override
