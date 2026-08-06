@@ -66,7 +66,10 @@ creational_patterns/
 
 ```
 structural_pattern/
-└── adapter_pattern/      # Adapter example (+ adapter_mini_project/)
+├── adapter_pattern/      # Adapter example (+ adapter_mini_project/)
+├── decorator_pattern/    # Decorator example (coffee + add-ons)
+├── faced_pattern/        # Facade example (home theater)
+└── composite_pattern/    # Composite example (file system tree)
 ```
 
 ## Notes
