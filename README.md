@@ -77,7 +77,8 @@ structural_pattern/
 
 ```
 behavioural_pattern/
-└── command_pattern/      # Command example (remote control + light)
+├── command_pattern/      # Command example (remote control + light)
+└── observer_pattern/     # Observer example (subject notifies observers)
 ```
 
 ## Notes
