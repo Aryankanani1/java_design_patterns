@@ -73,6 +73,13 @@ structural_pattern/
 └── proxy_pattern/        # Proxy example (lazy-loading image)
 ```
 
+### Behavioral patterns (`design_pattern/behavioural_pattern/`)
+
+```
+behavioural_pattern/
+└── command_pattern/      # Command example (remote control + light)
+```
+
 ## Notes
 
 - Each example class typically contains its own `main` method so it can be run
