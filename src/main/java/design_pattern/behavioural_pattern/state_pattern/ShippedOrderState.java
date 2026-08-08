@@ -3,8 +3,7 @@ package design_pattern.behavioural_pattern.state_pattern;
 public class ShippedOrderState implements OrderState{
     @Override
     public void next(Order o) {
-        System.out.println("packed order moved to shipped");
-        o.setOrderState(new ShippedOrderState());
+        System.out.println("order is already shipped");
     }
 
     @Override
