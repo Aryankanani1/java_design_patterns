@@ -53,7 +53,8 @@ behavioural_pattern/
 ├── command_pattern/      # Command example (remote control + light)
 ├── observer_pattern/     # Observer example (subject notifies observers)
 ├── state_pattern/        # State example (order lifecycle: new → packed → shipped)
-└── mediator_pattern/     # Mediator example (chat room routes messages between users)
+├── mediator_pattern/     # Mediator example (chat room routes messages between users)
+└── strategy_pattern/     # Strategy example (checkout with swappable payment methods)
 ```
 
 ## Notes
