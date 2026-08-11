@@ -54,7 +54,8 @@ behavioural_pattern/
 ├── observer_pattern/     # Observer example (subject notifies observers)
 ├── state_pattern/        # State example (order lifecycle: new → packed → shipped)
 ├── mediator_pattern/     # Mediator example (chat room routes messages between users)
-└── strategy_pattern/     # Strategy example (checkout with swappable payment methods)
+├── strategy_pattern/     # Strategy example (checkout with swappable payment methods)
+└── chain_of_responsibility/  # Chain of Responsibility example (handlers pass request down a chain)
 ```
 
 ## Notes
